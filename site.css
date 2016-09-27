@@ -1,0 +1,43 @@
+.header {
+  
+  height:15;
+  position: fixed;
+  right: 0;
+  top:0;
+  bottom: 0;
+  left: 0;
+  padding: .5rem;
+  color:black;
+  background-color: #efefef;
+}
+
+body {
+    background-image:url("background.jpg");	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: .5rem;
+  background-color: #efefef;
+  color:black;
+}
+table{
+	margin:5px auto; width:50%;
+	background: black;
+}
+
+td {
+	
+	text-align: center;
+}
+
+#colTitle {
+	
+}
+
+
